@@ -7,17 +7,11 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: indigo
-      accent: amber
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - scheme: slate
-      primary: indigo
-      accent: amber
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+      primary: blue
+      accent: indigo
+  font:
+    text: Inter
+    code: Roboto Mono
 
 nav:
   - Home: index.md
@@ -26,3 +20,4 @@ nav:
   - Cybersecurity: cybersecurity.md
   - Software: software.md
   - Journal: journal.md
+
