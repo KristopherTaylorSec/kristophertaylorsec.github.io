@@ -1,13 +1,5 @@
-title: "Your Name — Portfolio"
-description: "Cloud • DevSecOps • Security Engineering"
+
 theme: jekyll-theme-slate
+title: "Kristopher Taylor — Proving Ground"
 url: "https://kristophertaylorsec.github.io"
-baseurl: "/techp-proving-ground"   # <-- your repo name, WITH the leading slash
-
-# Optional nice-to-haves:
-show_downloads: false
-# If your site lives at username.github.io, leave url blank or set later.
-
-sass:
-  style: compressed
-
+baseurl: ""   # Leave blank for user sites (this fixes your link issue)
