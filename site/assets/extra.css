@@ -1,0 +1,30 @@
+/* Comfortable reading width */
+.md-grid { max-width: 900px; }
+
+/* Slightly larger, relaxed line-height for long reading */
+.md-typeset {
+  font-size: 0.98rem;
+  line-height: 1.7;
+}
+
+/* Headings: consistent rhythm without shouting */
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  line-height: 1.25;
+  margin-top: 1.2em;
+}
+
+/* Code blocks: subtle background and breathing room */
+.md-typeset pre > code {
+  padding: 0.9rem 1rem;
+  border-radius: 8px;
+}
+
+/* Buttons on homepage */
+.md-typeset a.md-button {
+  border-radius: 8px;
+  padding: 0.55rem 1rem;
+  font-weight: 600;
+}
+
+/* Images/cards with gentle rounding */
+.md-typeset img { border-radius: 8px; }
