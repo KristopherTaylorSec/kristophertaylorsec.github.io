@@ -1,3 +1,10 @@
-title: Continuous Mastery Journal
-description: Labs and refreshers in Linux, Cloud (DevSecOps), and Software Dev
-theme: jekyll-theme-minimal
+title: "Your Name — Portfolio"
+description: "Cloud • DevSecOps • Security Engineering"
+theme: jekyll-theme-slate
+# Optional nice-to-haves:
+show_downloads: false
+# If your site lives at username.github.io, leave url blank or set later.
+
+sass:
+  style: compressed
+

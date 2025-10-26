@@ -1,26 +1,12 @@
 ---
-
 layout: default
-
 title: Home
-
 ---
 
+# Hi, I'm Your Name
+Brief sentence on who you are and what you do.
 
+**Quick links:** [Projects](/projects) · [Journal](/journal) · [Resume](/resume) · [Contact](/contact)
 
-\# Continuous Mastery Journal
-
-
-
-\- \*\*Linux\*\* — RHCSA, Red Hat, Kali
-
-\- \*\*Cloud\*\* — AWS, Azure, GCP (incl. DevSecOps)
-
-\- \*\*Software Dev\*\* — Python, Bash, VBA
-
-
-
-> Simple, readable notes and labs.
-
-
-
+- **What I’m best at:** (bullets)
+- **Currently learning:** (bullets)
