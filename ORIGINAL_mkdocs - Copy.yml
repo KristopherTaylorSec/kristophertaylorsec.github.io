@@ -1,0 +1,22 @@
+site_name: Continuous Mastery Journal
+site_description: A living technical portfolio documenting real-world engineering growth and mastery across multiple domains.
+site_author: Kristopher Taylor
+repo_url: https://github.com/KristopherTaylorSec/TechPProvingGround
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: indigo
+  font:
+    text: Inter
+    code: Roboto Mono
+
+nav:
+  - Home: index.md
+  - Linux: linux.md
+  - Cloud: cloud.md
+  - Cybersecurity: cybersecurity.md
+  - Software: software.md
+  - Journal: journal.md
