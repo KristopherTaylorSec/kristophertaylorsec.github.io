@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects
 ---
 
-[Home]({{ '/' | relative_url }}) · [Projects]({{ '/projects/' | relative_url }}) · [Journal]({{ '/journal/' | relative_url }}) · [Resume]({{ '/resume/' | relative_url }}) · [Contact]({{ '/contact/' | relative_url }})
+
 
 # Projects
 Short intro (what a recruiter should look for).
