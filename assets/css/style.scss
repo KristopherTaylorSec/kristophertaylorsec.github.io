@@ -1,11 +1,3 @@
 ---
 ---
 @import "{{ site.theme }}";
-
-/* Make links and headings easier on the eyes */
-a { text-decoration: none; }
-a:hover { text-decoration: underline; }
-
-/* Optional tweaks */
-body { line-height: 1.6; }
-code, pre { font-size: 0.95rem; }

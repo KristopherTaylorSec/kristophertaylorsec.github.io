@@ -1,5 +1,4 @@
-
 theme: jekyll-theme-slate
 title: "Kristopher Taylor — Proving Ground"
 url: "https://kristophertaylorsec.github.io"
-baseurl: ""   # Leave blank for user sites (this fixes your link issue)
+baseurl: ""         # user site = leave blank
