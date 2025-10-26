@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+  <!-- 🌐 Global navigation bar -->
+  <nav style="text-align:center; margin: 20px 0;">
+    <a href="/">Home</a> ·
+    <a href="/projects">Projects</a> ·
+    <a href="/journal">Journal</a> ·
+    <a href="/resume">Resume</a> ·
+    <a href="/contact">Contact</a>
+  </nav>
+
+  <!-- 🧱 This is where each page's content goes -->
+  <main class="content" style="max-width:900px; margin:auto;">
+    {{ content }}
+  </main>
+</body>
+</html>
