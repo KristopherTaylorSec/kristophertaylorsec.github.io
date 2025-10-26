@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+[Home](/) · [Projects](/projects) · [Journal](/journal) · [Resume](/resume) · [Contact](/contact)
+
 
 # Hi, I'm Your Name
 Brief sentence on who you are and what you do.
