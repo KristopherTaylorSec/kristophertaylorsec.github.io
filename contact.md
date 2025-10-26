@@ -1,6 +1,3 @@
-#Heading
-[Home](/) · [Projects](/projects) · [Journal](/journal) · [Resume](/resume) · [Contact](/contact)
-
 ---
 layout: default
 title: Contact
