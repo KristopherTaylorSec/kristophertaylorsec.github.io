@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Journal
-permalink: /journal
+permalink: /journal/
 ---
 
-# Build Journal
-Date-stamped notes (what you learned, blockers, screenshots/gists).
+[Home]({{ '/' | relative_url }}) · [Projects]({{ '/projects/' | relative_url }}) · [Journal]({{ '/journal/' | relative_url }}) · [Resume]({{ '/resume/' | relative_url }}) · [Contact]({{ '/contact/' | relative_url }})
 
-- **2025-10-26:** (what you shipped/learned)
-- **2025-10-25:** ...
+# Journal
+
+## 2025-10-26 — First entry
+- What I did: Set up Jekyll Slate and fixed nav links
+- Repos: [techp-proving-ground](https://github.com/kristophertaylorsec/techp-proving-ground)
+- Notes: Next up — add Projects page.

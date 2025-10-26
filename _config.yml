@@ -3,6 +3,7 @@ description: "Cloud • DevSecOps • Security Engineering"
 theme: jekyll-theme-slate
 url: "https://kristophertaylorsec.github.io"
 baseurl: "/techp-proving-ground"   # <-- your repo name, WITH the leading slash
+
 # Optional nice-to-haves:
 show_downloads: false
 # If your site lives at username.github.io, leave url blank or set later.
