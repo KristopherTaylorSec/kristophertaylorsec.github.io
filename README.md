@@ -22,7 +22,7 @@ This work exists to support my ongoing development and training. Allowing me to 
 
 
 
-My mission is simple: help maintain a secure nation and world through responsible, practical use of technology.
+My mission is simple: mastery of technical IT and cybersecurity concepts to provide subject matter expertise to clients and employer through continuous learning.
 
 
 
@@ -36,9 +36,9 @@ My mission is simple: help maintain a secure nation and world through responsibl
 
 🛡️ Security Engineering — system hardening, architecture, and defense  
 
-☁️ \*\*Cloud Engineering \& DevSecOps\*\* — AWS, Azure, pipelines, and automation  
+☁️ Cloud Engineering \& DevSecOps — AWS, Azure, pipelines, and automation  
 
-🤖 \*\*AI \& Emerging Tech\*\* — applying AI to enhance security and efficiency  
+🤖 AI \& Emerging Tech — applying AI to enhance security and efficiency  
 
 
 
