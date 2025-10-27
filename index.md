@@ -53,7 +53,7 @@ Interested in collaborating or connecting?
 
 [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="18" height="18" style="vertical-align:middle; margin-right:4px;"/> **LinkedIn**](https://linkedin.com/in/kristophertaylorsec)  
 [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="18" height="18" style="vertical-align:middle; margin-right:4px;"/> **GitHub**](https://github.com/KristopherTaylorSec)  
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/briefcase.svg" alt="Portfolio" width="18" height="18" style="vertical-align:middle; margin-right:4px;"/> **Portfolio**](https://kristophertaylorsec.github.io)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/book.svg" alt="Portfolio" width="18" height="18" style="vertical-align:middle; margin-right:4px;"/> **Portfolio**](https://kristophertaylorsec.github.io)
 
 
 ---
