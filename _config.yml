@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
-title: "Kristopher Taylor — Proving Ground"
+title: "Kristopher Taylor — Security Engineer | Cloud | Linux | AI"
+description: "A living portfolio of labs, builds, and experiments"
 url: "https://kristophertaylorsec.github.io"
-baseurl: ""         # user site = leave blank
+baseurl: ""
