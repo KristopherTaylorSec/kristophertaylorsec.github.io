@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Welcome
 ---
 
 [Home]({{ '/' | relative_url }}) ·
@@ -9,11 +9,35 @@ title: Home
 [Resume]({{ '/resume/' | relative_url }}) ·
 [Contact]({{ '/contact/' | relative_url }})
 
+<div align="center">
 
-# Hi, I'm Your Name
-Brief sentence on who you are and what you do.
+# 👋 Welcome
 
-**Quick links:** [Projects](/projects) · [Journal](/journal) · [Resume](/resume) · [Contact](/contact)
+## I'm **Kristopher Taylor**
+**Security Engineer · Cloud · Linux · AI**
 
-- **What I’m best at:** (bullets)
-- **Currently learning:** (bullets)
+---
+
+### Building secure, efficient, and scalable systems — one project at a time.
+
+This site is my **technical portfolio and proving ground**, where I document hands-on projects, cloud builds, and security engineering work.  
+I believe in learning by doing — every project here is part of my commitment to keep improving through hands-on practice.
+
+</div>
+
+---
+
+### 🔗 Explore My Work
+- [🧩 **Projects**]({{ '/projects/' | relative_url }}) — real-world builds, labs, and automation work  
+- [📘 **Journal**]({{ '/journal/' | relative_url }}) — notes, write-ups, and reflections from the journey  
+- [📄 **Resume**]({{ '/resume/' | relative_url }}) — experience, certifications, and education  
+- [📬 **Contact**]({{ '/contact/' | relative_url }}) — reach out for collaboration or opportunities  
+
+---
+
+<div align="center">
+
+> “We wait for life to get easier, but life never gets easier. What happens is you handle hard better.”  
+> — *Kara Lawson, Duke University Women’s Basketball*
+
+</div>
