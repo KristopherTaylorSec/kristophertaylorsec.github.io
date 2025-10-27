@@ -1,4 +1,4 @@
-<h1 style="color:black; font-weight:900;">👋 About Me</h1>
+<h1 style="color:black; font-weight:900;"> About Me</h1>
 
 
 
@@ -30,7 +30,7 @@ My mission is simple: mastery of technical IT and cybersecurity concepts to prov
 
 
 
-<h1 style="color:black; font-weight:900;">🧩 What You’ll Find Here</h1>
+<h1 style="color:black; font-weight:900;"> What You’ll Find Here</h1>
 
 
 
@@ -46,15 +46,15 @@ My mission is simple: mastery of technical IT and cybersecurity concepts to prov
 
 
 
-<h1 style="color:black; font-weight:900;">🌐 Connect</h1>
+<h1 style="color:black; font-weight:900;"> Connect</h1>
 
 
 
-\*\*Portfolio:\*\* \[https://kristophertaylorsec.github.io](https://kristophertaylorsec.github.io)  
+Portfolio: \[https://kristophertaylorsec.github.io](https://kristophertaylorsec.github.io)  
 
-\*\*LinkedIn:\*\* \[https://linkedin.com/in/kristophertaylorsec](https://linkedin.com/in/kristophertaylorsec)  
+LinkedIn: \[https://linkedin.com/in/kristophertaylorsec](https://linkedin.com/in/kristophertaylorsec)  
 
-\*\*GitHub:\*\* \[https://github.com/KristopherTaylorSec](https://github.com/KristopherTaylorSec)
+GitHub: \[https://github.com/KristopherTaylorSec](https://github.com/KristopherTaylorSec)
 
 
 
