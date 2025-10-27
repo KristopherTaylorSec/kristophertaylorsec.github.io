@@ -19,14 +19,6 @@ title: Welcome
 
 <h1 style="font-size:2.8rem; margin-bottom:0;">👋 Welcome</h1>
 
-<h2 style="font-size:2.1rem; margin-top:5px; margin-bottom:8px;">
-I'm <strong>Kristopher Taylor</strong>
-</h2>
-
-<h3 style="font-size:1.4rem; font-weight:500; color:#222;">
-Security Engineer · Cloud · Linux · AI
-</h3>
-
 </div>
 
 ---
