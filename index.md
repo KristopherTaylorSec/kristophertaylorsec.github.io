@@ -25,8 +25,8 @@ title: Welcome
 
 ## 🧭 About This Site
 
-This is my **technical portfolio and personal proving ground** — a space where I document real-world projects, builds, and experiments.  
-Each section reflects active, hands-on work in security engineering, cloud infrastructure, automation, and emerging technology.
+This is my **technical portfolio and personal proving ground.** A space where I document real world projects, builds, and experiments.  
+Each section reflects active, hands on work in security engineering, cloud infrastructure, automation, and emerging technology.
 
 I believe in **learning by doing**. Every project here is part of my commitment to grow, refine, and strengthen my craft through consistent practice.
 
@@ -35,7 +35,7 @@ I believe in **learning by doing**. Every project here is part of my commitment 
 ## 💡 What You’ll Find
 
 ### 🛠️ Projects  
-Real-world engineering work: From cloud builds and infrastructure automation to hands-on security and DevSecOps experiments.  
+Real world engineering work: From cloud builds and infrastructure automation to hands-on security and DevSecOps experiments.  
 [Explore Projects →]({{ '/projects/' | relative_url }})
 
 ### 📓 Journal  
@@ -53,7 +53,7 @@ Interested in collaborating or connecting?
 
 [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="18" height="18" style="vertical-align:middle; margin-right:4px;"/> **LinkedIn**](https://linkedin.com/in/kristophertaylorsec)  
 [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="18" height="18" style="vertical-align:middle; margin-right:4px;"/> **GitHub**](https://github.com/KristopherTaylorSec)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg" alt="Apple Portfolio Icon" width="18" height="18" style="vertical-align:middle; border-radius:3px; margin-right:4px;"/> **Portfolio**](https://kristophertaylorsec.github.io)
+📘 **[Portfolio](https://kristophertaylorsec.github.io)**
 
 
 
