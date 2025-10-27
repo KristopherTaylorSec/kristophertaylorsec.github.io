@@ -3,24 +3,29 @@ layout: default
 title: Welcome
 ---
 
-<p align="center">
-  <strong>
-  [Home]({{ '/' | relative_url }}) ·
-  [Projects]({{ '/projects/' | relative_url }}) ·
-  [Journal]({{ '/journal/' | relative_url }}) ·
-  [Resume]({{ '/resume/' | relative_url }}) ·
-  [Contact]({{ '/contact/' | relative_url }})
-  </strong>
-</p>
+<!-- ──────────────── NAVIGATION BAR ──────────────── -->
+<div align="center" style="font-size:1.05rem; font-weight:600; margin-bottom:20px;">
+  <a href="{{ '/' | relative_url }}">Home</a> ·
+  <a href="{{ '/projects/' | relative_url }}">Projects</a> ·
+  <a href="{{ '/journal/' | relative_url }}">Journal</a> ·
+  <a href="{{ '/resume/' | relative_url }}">Resume</a> ·
+  <a href="{{ '/contact/' | relative_url }}">Contact</a>
+</div>
 
 ---
 
-<div align="center">
+<!-- ──────────────── HERO / TITLE SECTION ──────────────── -->
+<div align="center" style="margin-top:35px; margin-bottom:35px;">
 
-# 👋 Welcome
+<h1 style="font-size:2.8rem; margin-bottom:0;">👋 Welcome</h1>
 
-## I'm **Kristopher Taylor**
-### Security Engineer · Cloud · Linux · AI
+<h2 style="font-size:2.1rem; margin-top:5px; margin-bottom:8px;">
+I'm <strong>Kristopher Taylor</strong>
+</h2>
+
+<h3 style="font-size:1.4rem; font-weight:500; color:#222;">
+Security Engineer · Cloud · Linux · AI
+</h3>
 
 </div>
 
@@ -63,7 +68,7 @@ Interested in collaborating or connecting?
 
 ---
 
-<div align="center">
+<div align="center" style="margin-top:40px;">
 
 > “We wait for life to get easier, but life never gets easier. What happens is you handle hard better.”  
 > — *Kara Lawson, Duke University Women’s Basketball*
