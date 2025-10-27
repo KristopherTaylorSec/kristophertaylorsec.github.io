@@ -35,16 +35,13 @@ I believe in **learning by doing**. Every project here is part of my commitment 
 ## 💡 What You’ll Find
 
 ### 🛠️ Projects  
-Real-world engineering work — from cloud builds and infrastructure automation to hands-on security and DevSecOps experiments.  
+Real-world engineering work: From cloud builds and infrastructure automation to hands-on security and DevSecOps experiments.  
 [Explore Projects →]({{ '/projects/' | relative_url }})
 
 ### 📓 Journal  
 Notes, technical reflections, and lessons learned along the way.  
 [Read the Journal →]({{ '/journal/' | relative_url }})
 
-### 🧾 Resume  
-Experience, certifications, and professional background.  
-[View Resume →]({{ '/resume/' | relative_url }})
 
 ### 📬 Contact  
 Interested in collaborating or connecting?  
@@ -55,8 +52,9 @@ Interested in collaborating or connecting?
 ## 🌐 Connect
 
 [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="18" height="18" style="vertical-align:middle; margin-right:4px;"/> **LinkedIn**](https://linkedin.com/in/kristophertaylorsec)  
-[**GitHub**](https://github.com/KristopherTaylorSec)  
-[**Portfolio**](https://kristophertaylorsec.github.io)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="18" height="18" style="vertical-align:middle; margin-right:4px;"/> **GitHub**](https://github.com/KristopherTaylorSec)  
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/briefcase.svg" alt="Portfolio" width="18" height="18" style="vertical-align:middle; margin-right:4px;"/> **Portfolio**](https://kristophertaylorsec.github.io)
+
 
 ---
 
