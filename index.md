@@ -3,35 +3,63 @@ layout: default
 title: Welcome
 ---
 
-[Home]({{ '/' | relative_url }}) ·
-[Projects]({{ '/projects/' | relative_url }}) ·
-[Journal]({{ '/journal/' | relative_url }}) ·
-[Resume]({{ '/resume/' | relative_url }}) ·
-[Contact]({{ '/contact/' | relative_url }})
+<p align="center">
+  <strong>
+  [Home]({{ '/' | relative_url }}) ·
+  [Projects]({{ '/projects/' | relative_url }}) ·
+  [Journal]({{ '/journal/' | relative_url }}) ·
+  [Resume]({{ '/resume/' | relative_url }}) ·
+  [Contact]({{ '/contact/' | relative_url }})
+  </strong>
+</p>
+
+---
 
 <div align="center">
 
 # 👋 Welcome
 
 ## I'm **Kristopher Taylor**
-**Security Engineer · Cloud · Linux · AI**
-
----
-
-### Building secure, efficient, and scalable systems — one project at a time.
-
-This site is my **technical portfolio and proving ground**, where I document hands-on projects, cloud builds, and security engineering work.  
-I believe in learning by doing — every project here is part of my commitment to keep improving through hands-on practice.
+### Security Engineer · Cloud · Linux · AI
 
 </div>
 
 ---
 
-### 🔗 Explore My Work
-- [🧩 **Projects**]({{ '/projects/' | relative_url }}) — real-world builds, labs, and automation work  
-- [📘 **Journal**]({{ '/journal/' | relative_url }}) — notes, write-ups, and reflections from the journey  
-- [📄 **Resume**]({{ '/resume/' | relative_url }}) — experience, certifications, and education  
-- [📬 **Contact**]({{ '/contact/' | relative_url }}) — reach out for collaboration or opportunities  
+## 🧭 About This Site
+
+This is my **technical portfolio and personal proving ground** — a space where I document real-world projects, builds, and experiments.  
+Each section reflects active, hands-on work in security engineering, cloud infrastructure, automation, and emerging technology.
+
+I believe in **learning by doing**. Every project here is part of my commitment to grow, refine, and strengthen my craft through consistent practice.
+
+---
+
+## 💡 What You’ll Find
+
+### 🛠️ Projects  
+Real-world engineering work — from cloud builds and infrastructure automation to hands-on security and DevSecOps experiments.  
+[Explore Projects →]({{ '/projects/' | relative_url }})
+
+### 📓 Journal  
+Notes, technical reflections, and lessons learned along the way.  
+[Read the Journal →]({{ '/journal/' | relative_url }})
+
+### 🧾 Resume  
+Experience, certifications, and professional background.  
+[View Resume →]({{ '/resume/' | relative_url }})
+
+### 📬 Contact  
+Interested in collaborating or connecting?  
+[Reach Out →]({{ '/contact/' | relative_url }})
+
+---
+
+## 🌐 Connect
+
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="18" height="18" style="vertical-align:middle; margin-right:4px;"/> **LinkedIn**](https://linkedin.com/in/kristophertaylorsec)  
+[**GitHub**](https://github.com/KristopherTaylorSec)  
+[**Portfolio**](https://kristophertaylorsec.github.io)
 
 ---
 
