@@ -14,7 +14,7 @@ This is my technical portfolio and personal proving ground. A space where I buil
 
 
 
-<h1 style="color:black; font-weight:900;">🎯 Why This Matters</h1>
+<h1 style="color:black; font-weight:900;"> Why This Matters</h1>
 
 
 
