@@ -15,8 +15,16 @@ title: Python Lesson 1 – Variables & Data Types
 
 ### 💡 Example
 
-```py
+```python
 age = 30
 name = "Kristopher"
 print(f"{name} is {age} years old.")
+```
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
 ```
