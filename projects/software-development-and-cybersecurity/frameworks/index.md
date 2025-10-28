@@ -8,7 +8,7 @@ title: Frameworks
 Study and application of key cybersecurity, compliance, and privacy frameworks.  
 Each framework includes Foundational, Intermediate, Advanced, and Security tiers.
 
-### Framework Topics
+## Framework Topics
 - [Space / Aerospace Cybersecurity →](./space-aerospace/)
 - [Zero Trust Architecture (SP 800-207) →](./zero-trust/)
 - [NIST Privacy Framework →](./nist-privacy/)
