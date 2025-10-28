@@ -1,7 +1,7 @@
 # ------------------------------
 # Site & Theme Settings
 # ------------------------------
-theme: jekyll-theme-slate
+theme: minima
 title: "Kristopher Taylor<br><span style='font-size:0.7em;font-weight:400;'>Security Engineer · Cloud · Linux · AI</span>"
 description: "A living portfolio of labs, builds, and experiments"
 url: "https://kristophertaylorsec.github.io"
