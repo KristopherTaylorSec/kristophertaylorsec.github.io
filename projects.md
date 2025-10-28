@@ -7,7 +7,7 @@ permalink: /projects/
 <!-- ──────────────── NAVIGATION BAR ──────────────── -->
 <div align="center" style="font-size:1.05rem; font-weight:600; margin-bottom:20px;">
   <a href="{{ '/' | relative_url }}">Home</a> ·
-  <a href="{{ '/projects/' | relative_url }}">Projects</a> ·
+  <a href="{{ '/projects/index.md' | relative_url }}">Projects</a> ·
   <a href="{{ '/journal/' | relative_url }}">Journal</a> ·
   <a href="{{ '/resume/' | relative_url }}">Resume</a> ·
   <a href="{{ '/contact/' | relative_url }}">Contact</a>
