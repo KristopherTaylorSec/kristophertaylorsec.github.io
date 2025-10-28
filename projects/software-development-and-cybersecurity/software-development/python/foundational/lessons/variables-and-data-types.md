@@ -14,6 +14,7 @@ title: Python Lesson 1 – Variables & Data Types
 - Basic operations and string concatenation
 
 ### 💡 Example
+
 ```python
 age = 30
 name = "Kristopher"
