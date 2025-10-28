@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Python Lesson 1 – Example Lesson
+title: Python Lesson 1 – Variables & Data Types
 ---
 
 
-# 🧠 Lesson 1 – Example Lesson
-**Goal:** This is where I type my goal
+# 🧠 Lesson 1 – Variables & Data Types
+**Goal:** Understand how Python stores and manages different kinds of data.
 
 ### 🧩 Topics
 - Creating and naming variables
@@ -13,7 +13,7 @@ title: Python Lesson 1 – Example Lesson
 - Type conversion and `type()` function
 - Basic operations and string concatenation
 
-### 💡 Example Code
+### 💡 Example
 
 ```python
 age = 30
@@ -21,7 +21,6 @@ name = "Kristopher"
 print(f"{name} is {age} years old.")
 ```
 
-### My Code
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -29,7 +28,3 @@ var fun = function lang(l) {
   return true;
 }
 ```
-
-### Explanation
-
-Example explanation
