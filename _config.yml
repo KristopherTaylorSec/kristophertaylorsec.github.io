@@ -3,3 +3,6 @@ title: "Kristopher Taylor<br><span style='font-size:0.7em;font-weight:400;'>Secu
 description: "A living portfolio of labs, builds, and experiments"
 url: "https://kristophertaylorsec.github.io"
 baseurl: ""
+
+include:
+  - projects
