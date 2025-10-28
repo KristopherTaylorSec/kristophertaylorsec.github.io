@@ -4,5 +4,15 @@ description: "A living portfolio of labs, builds, and experiments"
 url: "https://kristophertaylorsec.github.io"
 baseurl: ""
 
+# --- Jekyll settings for proper code block rendering ---
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# --- Include all project folders for deep file rendering ---
 include:
   - projects
