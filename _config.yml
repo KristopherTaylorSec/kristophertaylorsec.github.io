@@ -1,15 +1,10 @@
-# ------------------------------
-# Site & Theme Settings
-# ------------------------------
-theme: minima
+theme: jekyll-theme-slate
 title: "Kristopher Taylor<br><span style='font-size:0.7em;font-weight:400;'>Security Engineer · Cloud · Linux · AI</span>"
 description: "A living portfolio of labs, builds, and experiments"
 url: "https://kristophertaylorsec.github.io"
 baseurl: ""
 
-# ------------------------------
-# Markdown & Code Rendering
-# ------------------------------
+# --- Jekyll settings for proper code block rendering ---
 markdown: kramdown
 highlighter: rouge
 kramdown:
@@ -18,10 +13,6 @@ kramdown:
     block:
       line_numbers: false
 
-# ------------------------------
-# Include Folders (so everything builds)
-# ------------------------------
+# --- Include all project folders for deep file rendering ---
 include:
   - projects
-  - assets
-  -
