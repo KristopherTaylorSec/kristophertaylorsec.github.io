@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | {{ site.title }}</title>
+
+    <!-- Load the default Jekyll Slate theme styles -->
+    {{ '/assets/css/style.css' | relative_url | stylesheet_tag }}
+
+    <!-- ✅ Add your custom syntax-highlighting CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/syntax.css' | relative_url }}">
+  </head>
+
+  <body>
+    <div class="container">
+      {{ content }}
+    </div>
+  </body>
+</html>
