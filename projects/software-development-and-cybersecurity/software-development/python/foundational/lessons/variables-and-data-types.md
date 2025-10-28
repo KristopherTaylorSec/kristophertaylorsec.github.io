@@ -15,7 +15,8 @@ title: Python Lesson 1 – Variables & Data Types
 
 ### 💡 Example
 
-```python
+```py
 age = 30
 name = "Kristopher"
 print(f"{name} is {age} years old.")
+```
