@@ -21,7 +21,7 @@ name = "Kristopher"
 print(f"{name} is {age} years old.")
 ```
 
-### My Code
+### My Implementation
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -33,3 +33,7 @@ var fun = function lang(l) {
 ### Explanation
 
 Example explanation
+
+### 📸 Execution Screenshot
+
+![Screenshot of my output](./images/test.jpg)
